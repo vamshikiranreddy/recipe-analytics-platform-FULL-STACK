@@ -90,6 +90,29 @@ recipe-management-system/
 ├── pom.xml
 └── README.md
 
+## 🚀 Quickstart
+
+Follow these steps to run the project locally:
+
+### 1. Clone the Repository
+
+git clone https://github.com/vamshikiranreddy/recipe-analytics-platform-FULL-STACK.git
+cd recipe-analytics-platform-FULL-STACK
+### 2. Setup Backend (Spring Boot + PostgreSQL)
+Make sure PostgreSQL is installed and running.
+Create a database named recipes.
+Update application.properties with your DB username & password.
+Run the backend:
+mvn clean spring-boot:run
+➡ The API will start at: http://localhost:8080
+### 3. Setup Frontend (Node.js + HTML)
+cd frontend
+npm install
+npm start
+➡ The frontend will start at: http://localhost:3000
+### 4. Test API
+You can test endpoints like:
+GET http://localhost:8080/api/recipes
 
 🎯 Resume Highlights
 Designed and implemented a full-stack recipe management system.
