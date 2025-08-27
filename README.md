@@ -3,7 +3,8 @@
 A full-stack application for managing, exploring, and analyzing large-scale recipe datasets. Built with **Spring Boot**, **PostgreSQL**, **Node.js**, and **HTML** — it powers clean data pipelines, REST APIs, and an intuitive web UI for recipe browsing.  
 
 ---
-
+## 🚀 Live Now 👉 URL: https://recipie-platform.netlify.app/
+---
 ## 📖 Description  
 The Intelligent Recipe Data Platform automates the ingestion and validation of JSON recipe datasets. It provides advanced APIs to search, filter, and retrieve recipes based on cuisine, cooking time, and nutrition. A **Node.js + HTML UI** lets users explore data visually, while APIs are available for integration with other systems.  
 
